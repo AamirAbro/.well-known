@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.careem.acma.qa",
+    "sha256_cert_fingerprints":
+    ["B2:27:F3:D2:76:67:D0:84:5A:C0:60:39:20:41:28:32:30:95:82:93:ED:5F:76:AA:FF:BC:A5:BF:AE:19:05:EF"]
+  }
+}]
